@@ -12,9 +12,9 @@ namespace Proyecto_Valor_Ant.Conexiones_DB
     public class Conexion_DataBase
     {
         static readonly String server = "localhost";
-        static readonly String db = "Valorant";
+        static readonly String db = "PRACTICE";
         static readonly String user = "postgres";
-        static readonly String password = "7511";
+        static readonly String password = "1234";
         static readonly String puerto = "5432";
 
         static readonly String cadConexion = $"Host={server};Database={db};Username={user};Password={password};Port={puerto}";

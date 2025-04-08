@@ -15,6 +15,7 @@ namespace Proyecto_Valor_Ant
     {
         public LoginTest()
         {
+            MessageBox.Show("silencio putaaaaaaaaa");
             InitializeComponent();
         }
 
